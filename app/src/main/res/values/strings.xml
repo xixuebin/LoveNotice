@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoveNotice</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_logo">Say out your lover!!</string>
+    <string name="welcome">Say out your lover!!</string>
+    <string name="phone_num_regex">[1][358]\\d{9}</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="default_username">username</string>
+    <string name="default_usericon">user icon</string>
+    <string name="default_phone_num">18000000000</string>
+    <string name="add_lover">添加爱人</string>
+    <string name="lover_user_name">lover_user_name</string>
+    <string name="lover_phone_num">lover_phone_num</string>
+
+</resources>
